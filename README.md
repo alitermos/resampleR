@@ -14,4 +14,4 @@ install.packages("ggplot2")
 install.packages("scales")
 ```
 ## Note
-The script comes as is with no generalizations or further automations for the sake of direct ease of use. Feel free to fork and modify for generalizations, automations, or change of sampling criteria. For questions related to resampleR, please contact me through *ali.adnan.termos@gmail.com* or *atermos@asu.edu*. 
+The script comes as is with no generalizations or further automations for the sake of direct ease of use. Feel free to fork and modify for generalizations, automations, or change of sampling criteria. For questions related to resampleR, please reach out through `ali.adnan.termos@gmail.com` or `atermos@asu.edu`. 
